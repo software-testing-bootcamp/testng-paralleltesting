@@ -111,8 +111,24 @@ Run the following command on your terminal. If mvn is not recognised on your OS,
 
 ----------
 
+**How can we monitor and watch automation tests with Selenium Grid Docker?**
+
+Monitoring sessions:
+
+http://127.0.0.1:4444
+
+
+Watching tests with built in VNC inside of docker image. password is "secret"
+
+http://127.0.0.1:7900
+
+----------
+
 ![image](https://user-images.githubusercontent.com/89974862/137541988-6d03b3a5-2625-487b-bcbd-95d15df24d46.png)
 
+![image](https://user-images.githubusercontent.com/89974862/137543529-56c647d8-6814-4046-9c1a-a0adbe012479.png)
+
+![image](https://user-images.githubusercontent.com/89974862/137543574-56909ce4-7752-442d-8b46-0cd4ef5fe025.png)
 
 ----------
 
