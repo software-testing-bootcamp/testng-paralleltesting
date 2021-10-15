@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name = "Single Thread All Test Cases">
+    <test name = "Tests" parallel = "none">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name = "tests.SearchNumberTest" />
+            <class name = "tests.SearchStringTest" />
+        </classes>
+    </test>
+</suite>
