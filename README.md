@@ -104,9 +104,17 @@ For Windows OS, Create a folder on your system as "C:\SeleniumDrivers". Copy the
 
 **How to run TestNG XML test suite from terminal and Jenkins CI ?**
 
-Run the following command on your terminal. If mvn is not recognised on your OS, you have to install it from here https://maven.apache.org/download.cgi
+Run the following command on your terminal. If mvn is not recognised on your OS, you have to install it from here https://maven.apache.org/download.cgi If you can run it from terminal, you can create a new Jenkins job and configure it as described in the Youtube video.
 
     mvn clean test -Dsurefire.suiteXmlFiles=src/test/java/suites/ParallelTestWithBrowsers.xml
+
+
+----------
+
+![image](https://user-images.githubusercontent.com/89974862/137541988-6d03b3a5-2625-487b-bcbd-95d15df24d46.png)
+
+
+----------
 
 
 **Helpful Docs:**
