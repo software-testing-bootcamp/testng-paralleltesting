@@ -10,6 +10,8 @@ https://youtu.be/uHMUfM2Z1kc
 
 ------------
 
+**Getting Started:**
+
 This document will help you to run the following types of parallel tests with Java TestNG.
 
   - Single Thread TestSuite with Java Classes
@@ -26,3 +28,33 @@ Also will help you to run different type Selenium Grid configurations
   - ChromeDriver
   - GeckoDriver
   - Headless test run option
+
+----------
+
+**Requirements:**
+
+   * Install Java JDK8 https://www.oracle.com/tr/java/technologies/javase/javase8-archive-downloads.html 
+
+   * Install IntelliJ IDEA https://www.jetbrains.com/idea/download/
+
+   * Install Docker for MacOs / Windows https://www.docker.com/products/docker-desktop
+
+   * Download ChromeDriver, GeckoDriver and Selenium Grid JAR file https://www.selenium.dev/downloads/
+
+
+**Helpful Docs:**
+
+https://mvnrepository.com/
+
+https://www.selenium.dev/downloads/
+
+https://www.selenium.dev/documentation/grid/
+
+https://bonigarcia.dev/webdrivermanager/
+
+https://testng.org/doc/
+
+https://github.com/SeleniumHQ/docker-selenium
+
+https://www.jenkins.io/
+
