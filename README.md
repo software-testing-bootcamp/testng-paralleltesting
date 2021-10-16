@@ -1,4 +1,4 @@
-# Selenium Grid ile Paralel Web Testleri ve Jenkins ile Entegrasyon
+# Parallel Testing with Selenium Grid and Integration with Jenkins
 
 "Software Testing Bootcamp" is a community of people interested in software testing. We record the weekly webinars that we organize and publish them on Youtube. For more information -> https://testingbootcamp.com/
 
